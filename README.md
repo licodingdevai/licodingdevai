@@ -6,7 +6,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Based%20in-Germany-1f2328?style=for-the-badge" alt="Based in Germany" />
-  <img src="https://img.shields.io/badge/Currently%20building-Dockup-0b7285?style=for-the-badge" alt="Currently building Dockup" />
+  <img src="https://img.shields.io/badge/Building-Dockup-0b7285?style=for-the-badge" alt="Building Dockup" />
+  <img src="https://img.shields.io/badge/Building-VynDesk-5b3df5?style=for-the-badge" alt="Building VynDesk" />
 </p>
 
 ---
@@ -18,6 +19,12 @@
 Instead of dashboards and click-ops, Dockup gives agents a clean surface to ship
 real applications: builds, environments, databases, domains and logs, all driven
 from a single CLI.
+
+**[VynDesk](https://vyndesk.com)** is an AI support desk for online shops.
+
+It plugs into JTL and Shopify so every ticket arrives with real order context,
+then handles the repetitive part: multilingual replies, workflows, SLA tracking
+and analytics, with a native macOS app for the team behind the inbox.
 
 ---
 
@@ -37,4 +44,5 @@ from a single CLI.
 <p align="center">
   <a href="https://github.com/licodingdevai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://dockup.ai"><img src="https://img.shields.io/badge/Dockup-0b7285?style=for-the-badge&logo=docker&logoColor=white" alt="Dockup" /></a>
+  <a href="https://vyndesk.com"><img src="https://img.shields.io/badge/VynDesk-5b3df5?style=for-the-badge" alt="VynDesk" /></a>
 </p>
