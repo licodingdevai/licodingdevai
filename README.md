@@ -1,17 +1,17 @@
-<h1 align="center">Hey, I'm Kurtulus 👋</h1>
+<h1 align="center">Hey, I'm Kurtulus</h1>
 
 <p align="center">
   <em>Software engineer building developer tools, infrastructure and native apps.</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Based%20in-Germany%20%F0%9F%87%A9%F0%9F%87%AA-1f2328?style=for-the-badge" alt="Based in Germany" />
+  <img src="https://img.shields.io/badge/Based%20in-Germany-1f2328?style=for-the-badge" alt="Based in Germany" />
   <img src="https://img.shields.io/badge/Currently%20building-Dockup-0b7285?style=for-the-badge" alt="Currently building Dockup" />
 </p>
 
 ---
 
-### 🚀 What I'm working on
+### What I'm working on
 
 **[Dockup](https://dockup.ai)** — a deployment platform designed for AI agents.
 
@@ -21,7 +21,7 @@ from a single CLI.
 
 ---
 
-### 🧰 Tech I work with
+### Tech I work with
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -38,18 +38,9 @@ const kurtulus = {
   focus: ["developer tools", "infrastructure", "native apps"],
   building: "Dockup — deployment platform for AI agents",
   stack: ["TypeScript", "Node.js", "Swift", "React", "PostgreSQL", "Docker"],
-  location: "Germany 🇩🇪",
+  location: "Germany",
 };
 ```
-
----
-
-### 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=licodingdevai&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=licodingdevai&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
 
 ---
 
