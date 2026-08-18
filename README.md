@@ -13,7 +13,7 @@
 
 ### What I'm working on
 
-**[Dockup](https://dockup.ai)** — a deployment platform designed for AI agents.
+**[Dockup](https://dockup.ai)** is a deployment platform designed for AI agents.
 
 Instead of dashboards and click-ops, Dockup gives agents a clean surface to ship
 real applications: builds, environments, databases, domains and logs, all driven
