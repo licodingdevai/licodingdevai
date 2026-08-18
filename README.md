@@ -32,16 +32,6 @@ from a single CLI.
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-```ts
-const kurtulus = {
-  role: "Software Engineer",
-  focus: ["developer tools", "infrastructure", "native apps"],
-  building: "Dockup — deployment platform for AI agents",
-  stack: ["TypeScript", "Node.js", "Swift", "React", "PostgreSQL", "Docker"],
-  location: "Germany",
-};
-```
-
 ---
 
 <p align="center">
